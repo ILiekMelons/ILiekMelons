@@ -1,16 +1,12 @@
-### Hi there 👋
+# Hello
+- i like melons
+- bullet point two
+- 
 
-<!--
-**ILiekMelons/ILiekMelons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+graphic design is my passion
+image
+![image](http://1.bp.blogspot.com/_kenVg3NeQ5o/TPi97SgKGEI/AAAAAAAAADE/h-EgWB0XSUA/s1600/comic+sans.jpg)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+tihs ise my favort font
+im havigne stronk
+comic sans bad
